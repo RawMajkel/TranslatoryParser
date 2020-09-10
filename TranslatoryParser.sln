@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranslatoryParser.App", "TranslatoryParser.App\TranslatoryParser.App.csproj", "{835DC1A0-CE74-4C5B-8FE8-503BFDAC1D64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranslatoryParser.Common", "TranslatoryParser.Common\TranslatoryParser.Common.csproj", "{18A84172-D589-465E-9ABD-4161DA381427}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{835DC1A0-CE74-4C5B-8FE8-503BFDAC1D64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{835DC1A0-CE74-4C5B-8FE8-503BFDAC1D64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{835DC1A0-CE74-4C5B-8FE8-503BFDAC1D64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{835DC1A0-CE74-4C5B-8FE8-503BFDAC1D64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18A84172-D589-465E-9ABD-4161DA381427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18A84172-D589-465E-9ABD-4161DA381427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18A84172-D589-465E-9ABD-4161DA381427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18A84172-D589-465E-9ABD-4161DA381427}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E063AE7D-7E6C-4F15-9371-65DB36FAE2AF}
+	EndGlobalSection
+EndGlobal
